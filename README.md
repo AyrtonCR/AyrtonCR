@@ -1,10 +1,10 @@
 ## Hi, 
 
-I’m @AyrtonCR
-
 ---
 
-- I’m looking at becoming a web dev, currently starting my journey through Developers Institute in NZ, 2022.
+I’m @AyrtonCR
+
+    - Looking at becoming a web dev, currently starting my journey through Developers Institute in NZ, 2022.
 
 
 <!---
