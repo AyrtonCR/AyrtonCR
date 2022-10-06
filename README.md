@@ -2,7 +2,7 @@
 
 ---
 
-      
+Junior Web Developer - based in Christchurch, NZ.      
 
 
 <!---
