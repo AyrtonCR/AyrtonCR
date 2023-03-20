@@ -1,1 +1,1 @@
-Junior Web Developer - based in <em>Christchurch, NZ.</em>      
+Web Developer - based in <em>Christchurch, NZ.</em>      
