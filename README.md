@@ -1,1 +1,1 @@
-Web Developer - based in <em>Christchurch, NZ.</em>      
+Full-Stack Developer - based in <em>Christchurch, NZ.</em>      
