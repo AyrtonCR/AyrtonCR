@@ -1,1 +1,1 @@
-Full-Stack Developer - based in <em>Christchurch, NZ.</em>      
+Developer based in <em>Christchurch, NZ.</em>      
